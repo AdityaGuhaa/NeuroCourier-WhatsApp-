@@ -1,6 +1,9 @@
 # GuhaGPTbot
 # A Telegram AI Agent (Local LLM / Gemini Backend)
 
+<img width="1365" height="1000" alt="Screenshot 2026-02-14 at 8 38 43 PM" src="https://github.com/user-attachments/assets/e534bdb6-8e10-4e3b-b3e4-d9766b7707c8" />
+<img width="1479" height="396" alt="Screenshot 2026-02-14 at 8 38 09 PM" src="https://github.com/user-attachments/assets/6e91239e-9296-4549-8e6c-5631bf1220ae" />
+
 ## Overview
 
 GuhaGPTbot is a fully functional Telegram-based AI agent that connects Telegram messaging with a Large Language Model backend running either locally (via Ollama) or remotely (via Google's Gemini API). The bot receives messages from Telegram, forwards them to an LLM backend, and replies with intelligent responses in real time.
@@ -327,3 +330,4 @@ Ready for further extension into a full autonomous AI agent.
 Open for personal and educational use.
 
 ---
+
